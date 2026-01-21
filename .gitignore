@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# LangChain / FAISS / Data (avoid huge files)
+data/
+*.pdf
+*.faiss
+*.pkl
+*.db
+
+# Logs
+*.log
