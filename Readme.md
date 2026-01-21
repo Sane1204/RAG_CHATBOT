@@ -24,14 +24,14 @@ The system chunks the document, generates embeddings, stores them in a FAISS vec
 - Gradio
 
 ---
-### Notes & Future Improvements
+## Notes & Future Improvements
 
--Add evaluation metrics for retrieval quality
--Persist vector database to disk
--Improve chunking strategy
--Add conversation memory
--Optimize retrieval latency
--Support multiple PDF uploads
+- Add evaluation metrics for retrieval quality
+- Persist vector database to disk
+- Improve chunking strategy
+- Add conversation memory
+- Optimize retrieval latency
+- Support multiple PDF uploads
 
 ## Setup & Installation
 
